@@ -1,0 +1,4 @@
+benchmark,instance
+ExampleBenchmark,case-a
+ExampleBenchmark,case-b
+AnotherBenchmark,default
