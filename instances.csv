@@ -1,4 +1,4 @@
-benchmark,instance
-ExampleBenchmark,case-a
-ExampleBenchmark,case-b
-AnotherBenchmark,default
+benchmark,instance,group
+ExampleBenchmark,case-a,default
+ExampleBenchmark,case-b,default
+AnotherBenchmark,default,default
